@@ -1,0 +1,14 @@
+﻿t-Test: Paired Two Sample for Means,,
+,,
+,Time In Mins of day,
+Mean,720.5,71.28214286
+Variance,172920,97.63732042
+Observations,1440,1440
+Pearson Correlation,0.633341371,
+Hypothesized Mean Difference,0,
+df,1439,
+t Stat,60.13939088,
+P(T<=t) one-tail,0,
+t Critical one-tail,1.645913222,
+P(T<=t) two-tail,0,
+t Critical two-tail,1.961613904,
